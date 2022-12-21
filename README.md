@@ -16,5 +16,7 @@ References:
 
 [1] Yao, Y., Vehtari, A.,  Simpson, D., & Gelman, A. (2017). Using Stacking to Average Bayesian Predictive Distributions. Bayesian Analysis. 13. 
 https://doi.org/10.1214/17-BA1091.
+  
 [2] Dietterich, T.G. (2000). Ensemble methods in machine learning. Multiple Classifier Systems: First International Workshop, MCS 2000, Lecture Notes in Computer Science. 1-15. https://doi.org/10.1007/3-540-45014-9_1
+  
 [3] James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learningwith Applications in R (8th ed.). Springer New York Heidelberg Dordrecht London. https://doi.org/10.1007/978-1-4614-7138-7
