@@ -9,7 +9,7 @@ This project is composed of the following notebooks:
 1) Exploratory Data Analysis
 2) Feature Engeneering + model implementations
 3) Final Ensemble Model Combination
-
+<p align="justify"> 
 Dataset available at: https://www.kaggle.com/datasets/wordsforthewise/lending-club?select=rejected_2007_to_2018Q4.csv.gz
 
 References:
