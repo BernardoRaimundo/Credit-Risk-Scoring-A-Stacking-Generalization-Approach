@@ -7,7 +7,7 @@ This project intends to be an empirical study on a publicly available bank loan 
 This project is composed of the following notebooks:
 
 1) Exploratory Data Analysis
-2) Feature Engeneering + model implementations
+2) Feature Engeneering + Model Implementations
 3) Final Ensemble Model Combination
 
 Dataset available at: https://www.kaggle.com/datasets/wordsforthewise/lending-club?select=rejected_2007_to_2018Q4.csv.gz
