@@ -11,10 +11,5 @@ The project comprises the following notebooks:
 3) Final Ensemble Model Combination
 
 Dataset available at: [Kaggle - Lending Club Dataset](https://www.kaggle.com/datasets/wordsforthewise/lending-club?select=rejected_2007_to_2018Q4.csv.gz)
-
-References:
-
-1. Yao, Y., Vehtari, A., Simpson, D., & Gelman, A. (2017). Using Stacking to Average Bayesian Predictive Distributions. Bayesian Analysis, 13. [Link](https://doi.org/10.1214/17-BA1091)
-2. Dietterich, T.G. (2000). Ensemble methods in machine learning. In Multiple Classifier Systems: First International Workshop, MCS 2000, Lecture Notes in Computer Science, 1-15. [Link](https://doi.org/10.1007/3-540-45014-9_1)
-3. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning with Applications in R (8th ed.). Springer New York Heidelberg Dordrecht London. [Link](https://doi.org/10.1007/978-1-4614-7138-7)
+Paper Available at: [Research Gate](https://www.researchgate.net/publication/378229142_Credit_Risk_Scoring_A_Stacking_Generalization_Approach)
 
