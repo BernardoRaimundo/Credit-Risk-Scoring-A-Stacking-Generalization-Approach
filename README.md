@@ -12,6 +12,6 @@ The project comprises the following notebooks:
 
 Dataset available at: [Kaggle - Lending Club Dataset](https://www.kaggle.com/datasets/wordsforthewise/lending-club?select=rejected_2007_to_2018Q4.csv.gz)
 
-Paper Available at: [Research Gate](https://www.researchgate.net/publication/378229142_Credit_Risk_Scoring_A_Stacking_Generalization_Approach)
+Paper Available at: [Springer](https://link.springer.com/chapter/10.1007/978-3-031-45642-8_38)
 
 For any inquiries send an email at: braimundo@novaims.unl.pt
